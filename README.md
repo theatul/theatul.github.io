@@ -1,4 +1,21 @@
-# Minimal Mistakes remote theme starter
+# My README
+- This repo was create with the template https://github.com/mmistakes/mm-github-pages-starter/generate
+
+### Setup and build locally
+- install jekyll using steps here if not already done https://jekyllrb.com/docs/installation/ubuntu/
+- Run following command to run the local server after making a change
+    ```
+    bundle exec jekyll serve
+    ```
+- Jekyll documentation https://jekyllrb.com/docs/
+
+### Git hub pages build
+This is already configures in the repo, look for "Github pages" documents for troubleshoot if required.
+
+
+# Minimal Mistakes README
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
