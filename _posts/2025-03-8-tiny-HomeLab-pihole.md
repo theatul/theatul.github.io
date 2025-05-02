@@ -39,7 +39,7 @@ I prefer using docker-compose files to manage the services on my raspberry-pi in
         - "8080:80/tcp"
         environment:
         TZ: 'Asia/Calcutta'
-        WEBPASSWORD: 'password' # This is the pasword for the web UI.
+        WEBPASSWORD: 'password' # This is the password for the web UI.
         # Volumes store your data between container upgrades
         volumes:
         - './etc-pihole:/etc/pihole'
@@ -54,20 +54,20 @@ I prefer using docker-compose files to manage the services on my raspberry-pi in
     ```
     docker compose up -d
     ``` 
-- Once the container is reddy, web UI is available at
+- Once the container is ready, web UI is available at
     ```
     http://<your-pihole-ip>/admin
     ```
 - Once configured you would need to change the DNS IP of your home router to the pihole IP.
 
 ### To stop the service
-- use follwoing command
+- use following command
     ```
     docker compose down
     ```
 
 ### To Update
-- Update using follwing command
+- Update using following command
     ```
     docker compose pull && docker compose up -d
     ```
