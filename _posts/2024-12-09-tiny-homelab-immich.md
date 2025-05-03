@@ -18,7 +18,7 @@ tags:
     ```
     mkdir immich
     ```
-- Crete a file named **docker-compose.yaml** file in the directory **pihole**.
+- Crete a file named **docker-compose.yaml** file in the directory **immich**.
     ```
     touch  immich/docker-compose.yaml
     ``` 
