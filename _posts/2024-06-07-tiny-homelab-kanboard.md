@@ -7,7 +7,7 @@ categories:
 tags:
   - Tiny HomeLab
   - Raspberry pi project
-  - kanboard
+  - Kanboard
   - docker compose
 ---
 

@@ -58,4 +58,5 @@ Creating a list of books i have read:
 
 ## In queue:
 - [The Three-Body Problem by Liu Cixin](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
+- [Designing Data-Intensive Applications By Martin Kleppmann](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
