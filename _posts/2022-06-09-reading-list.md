@@ -60,3 +60,6 @@ Creating a list of books i have read:
 - [The Three-Body Problem by Liu Cixin](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
 - [Designing Data-Intensive Applications By Martin Kleppmann](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
+- [Parshuram Ki Pratiksha by Ramdhari Singh Dinkar](http://kavitakosh.org/kk/%E0%A4%AA%E0%A4%B0%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%AE_%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
+
+- [The Murderbot Diaries](https://en.wikipedia.org/wiki/The_Murderbot_Diaries)
