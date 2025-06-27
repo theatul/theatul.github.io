@@ -7,15 +7,33 @@ tags:
   - Reading list
 ---
 
-Creating a list of books i have read:
+My Reading tracker:
 
+## Reading now:
+- [The Three-Body Problem by Liu Cixin](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
+
+- [Designing Data-Intensive Applications By Martin Kleppmann](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+- [Rest API Desigh Rulebook ](https://learning.oreilly.com/library/view/rest-api-design/9781449317904/)
+
+- [Sytem Design interview By Alex xu](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+
+## In queue:
+- [Parshuram Ki Pratiksha by Ramdhari Singh Dinkar](http://kavitakosh.org/kk/%E0%A4%AA%E0%A4%B0%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%AE_%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
+
+- [The Murderbot Diaries](https://en.wikipedia.org/wiki/The_Murderbot_Diaries)
+
+- [Gandhi and Anarchy by Sir C. Sankaran Nair](https://archive.org/details/gandhianarchy00sankuoft/page/n5/mode/2up)
+
+
+## Completed
 - [The Selfish Gene by Richard Dawkins](https://en.wikipedia.org/wiki/The_Selfish_Gene)
 - [Greatest Show on Earth:The Evidence for Evolution by Richard Dawkins](https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth:_The_Evidence_for_Evolution)
 - [Black warrant by Sunil Gupta](https://en.wikipedia.org/wiki/Black_Warrant_(book))
 - [Sapiens by Yual Noah Harari](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 - [India's Bravehearts  by Lt Gen Satish Dua (Retired)](https://bookishlyunlimited.wordpress.com/2020/12/17/in-review-indias-bravehearts-untold-stories-from-the-indian-army/)
 - [Linux Kernel Development by Robert Love](https://www.amazon.in/Linux-Kernel-Development-Developers-Library/dp/0672329468)
-- [Dungeon crawler carl Series by Matt Dinniman](https://www.goodreads.com/series/309211-dungeon-crawler-carl)
+- Dungeon crawler carl Series by Matt Dinniman
   - [Dungeon crawler carl by Matt Dinniman](https://www.goodreads.com/series/309211-dungeon-crawler-carl)
   - [Carl's Doomsday Scenario by Matt Dinniman](https://www.goodreads.com/series/309211-dungeon-crawler-carl)
   - [The Dungeon Anarchist's Cookbook by Matt Dinniman](https://www.goodreads.com/series/309211-dungeon-crawler-carl)
@@ -56,10 +74,3 @@ Creating a list of books i have read:
 - [Let us C by Yashavant Kanetkar](https://archive.org/details/yashavant-kanetkar-let-us-c-bpb-publications-2004)
 
 
-## In queue:
-- [The Three-Body Problem by Liu Cixin](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
-- [Designing Data-Intensive Applications By Martin Kleppmann](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-
-- [Parshuram Ki Pratiksha by Ramdhari Singh Dinkar](http://kavitakosh.org/kk/%E0%A4%AA%E0%A4%B0%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%AE_%E0%A4%95%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22)
-
-- [The Murderbot Diaries](https://en.wikipedia.org/wiki/The_Murderbot_Diaries)
